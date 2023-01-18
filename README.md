@@ -1,7 +1,7 @@
 <img src="Qbe.png" style="align-items: center" width="150"/>
 
 # Qbe
-This is a minimalistic language, designed specifically to mess around with the pointer. 
+This is a minimalistic language, designed specifically to mess around with the pointer.
 The language has support for a higher-level code, using the built-in`func` keyword to make functions.
 
 ### Official Modules
@@ -11,11 +11,13 @@ HLL - HLL or High-Level Library is a library that adds functions that would usua
 ### Data Types
 __Do Note:__ A name of an (official) module will be in brackets `()` to indicate in what module that thing can be found.
 
-| `DataType` | `Handled as DataType`   |
-|------------|-------------------------|
-| `bin`      | `int` <br>`float` (HLL) |
-| `bit`      | `bool`                  | 
-| `ascii`    | `string` <br> `char`    |
+
+| `DataType`                | `Handled as` |
+|---------------------------|--------------|
+| `int` <br>`float` (HLL)   | `bin`        |
+| `bool`                    | `bit`        | 
+| `string` <br> `char`      | `ascii`      |
+
 
 ### Reference Operators
 | Handle    | Description                   |
@@ -34,11 +36,11 @@ __Do Note:__ A name of an (official) module will be in brackets `()` to indicate
 | `down`                    | Move down by 1                                                          |
 | `down <bin>`              | Move down by the given amount                                           |
 | `getaddrpos <reg>`        | Get address of the specified register                                   |
-| `setaddrpos <reg> <bin>`  | Set address position of the specified register to the specified address | 
+| `setaddrpos <reg> <bin>`  | Set address position of the specified register to the specified address |
 | `incr`                    | Increment current address by 1                                          |
-| `incr <int>`              | Increment current address by the given amount                           |                                            
+| `incr <int>`              | Increment current address by the given amount                           |
 | `decr`                    | Decrement current address by 1                                          |
-| `decr <int>`              | Decrement current address by the given amount                           |     
+| `decr <int>`              | Decrement current address by the given amount                           |
 | `func <string> (any)`     | Function with name as string with one argument                          |
 
 
