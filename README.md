@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<center> <img src="Qbe.png" width="150"/></center>
+<div style="text-align:center"> <img src="Qbe.png" width="150"/></div>
 
 # Qbe
 This is a minimalistic language, designed specifically to mess around with the pointer. 
