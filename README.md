@@ -1,8 +1,3 @@
-<br>
-<br>
-<br>
-<br>
-<br>
 <img src="Qbe.png" style="align-items: center" width="150"/>
 
 # Qbe
