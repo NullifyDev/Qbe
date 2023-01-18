@@ -52,5 +52,3 @@ Due to the fact that this is a prototype, this project is written in C#, develop
 
 
 <ins> Do note that this is a prototype of the C/C++ version of this project/repo. The actual version will come out at its initial release </ins>
-# Qbe
-# Qbe
