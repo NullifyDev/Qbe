@@ -39,7 +39,7 @@ __Do Note:__ A name of an (official) module will be in brackets `()` to indicate
 | `incr <int>`              | Increment current address by the given amount                           |                                            
 | `decr`                    | Decrement current address by 1                                          |
 | `decr <int>`              | Decrement current address by the given amount                           |     
-| `func <string> (args)`    | Function with name as string and any amount of arguments of any kind    |
+| `func <string> (any)`     | Function with name as string with one argument                          |
 
 
 <br>
