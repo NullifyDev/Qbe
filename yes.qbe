@@ -1,9 +1,0 @@
-func "sum" (a, b)
-     setpointerpos getaddrpos a
-0 - bit    (bool)    
-1 - ASCII  (string and char)
-2 - binary (int and float points)
-     
--------------------------------------------------
-| 0 | 0 | 2 |  |  |  |  | 0 | 0 | 2 |  |  |  |  |
--------------------------------------------------
