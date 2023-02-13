@@ -1,11 +1,11 @@
 <img src="Qbe.png" style="align-items: center" width="150"/>
 
 # Qbe
-This is a minimalistic language, designed specifically to mess around with the pointer.
-The language has support for a higher-level code, using the built-in`func` keyword to make functions.
+This is a minimalistic language, designed to be simple to understand and utilize.
+The language has a library named "ExtraKeys" to further aid the programmer without touching any of the pointer things.
 
 ### Official Modules
-HLL - HLL or High-Level Library is a library that adds functions that would usually be already implemented (like `for` and `while`) to an OOB Langage like C#, Java. .
+ExtraKeys - ExtraKeys is a library that adds functions and keywords like `for` and `while` to the langugae to further ease the development of some, making Qbe feel like it is "High-Level" when it isnt.
 
 
 ### Data Types
